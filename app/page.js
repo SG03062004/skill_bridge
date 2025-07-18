@@ -297,7 +297,7 @@ export default function HomePage() {
     🌍 Need help understanding video content in your preferred language?
   </p>
   <p className="max-w-xl">
-    Use <span className="font-semibold text-purple-700">HeyGen&#39;s Video Translator
+    Use <span className="font-semibold text-purple-700">HeyGen Video Translator
 </span> to convert spoken content into your native language for better clarity and comprehension.
   </p>
   <a
